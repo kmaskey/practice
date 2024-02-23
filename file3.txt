@@ -1,2 +1,3 @@
 this is file 3 from second branch
 some modification
+changes in file 3
